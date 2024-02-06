@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0cbacc83.css",
+    "main.js": "./static/js/main.d47d69b0.js",
+    "static/media/image3.jpg": "./static/media/image3.f04aee7a1f779300853b.jpg",
+    "static/media/image2.jpg": "./static/media/image2.5a241b99f8b522042e95.jpg",
+    "static/media/image5.jpg": "./static/media/image5.8bb09776a61af1de521f.jpg",
+    "static/media/image8.jpg": "./static/media/image8.bb3a9c5d701e31dd2d84.jpg",
+    "static/media/image4.jpg": "./static/media/image4.d58bf736b58fc10a7eb2.jpg",
+    "static/media/image7.jpg": "./static/media/image7.17fd9a07877d41035569.jpg",
+    "static/media/image6.jpg": "./static/media/image6.8763f01563b2e7210624.jpg",
+    "static/media/image9.jpg": "./static/media/image9.c8db562200dfab11de08.jpg",
+    "static/media/image10.jpg": "./static/media/image10.e271288d065ccbfc2347.jpg",
+    "static/media/IterativeDash.png": "./static/media/IterativeDash.7dc515ee34f51d900318.png",
+    "static/media/Manasa.jpg": "./static/media/Manasa.ba1feb937b71c1d85002.jpg",
+    "static/media/ParetoChart.png": "./static/media/ParetoChart.5c77f55c802e2cd550b0.png",
+    "static/media/image1.jpg": "./static/media/image1.dd673c750445eabfdd0d.jpg",
+    "static/media/SlidesDash.png": "./static/media/SlidesDash.d50c0df47dfd5c80483d.png",
+    "static/media/mainLogo.png": "./static/media/mainLogo.54a269b13904fef7cb41.png",
+    "static/media/wave.svg": "./static/media/wave.abbfc8443cfec66a8f31.svg",
+    "index.html": "./index.html",
+    "static/media/blob2.svg": "./static/media/blob2.89c13118c9dfa32b0690.svg",
+    "static/media/blob-haikei.svg": "./static/media/blob-haikei.9f562bdbd9e41a8c1834.svg",
+    "main.0cbacc83.css.map": "./static/css/main.0cbacc83.css.map",
+    "main.d47d69b0.js.map": "./static/js/main.d47d69b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cbacc83.css",
+    "static/js/main.d47d69b0.js"
+  ]
+}
